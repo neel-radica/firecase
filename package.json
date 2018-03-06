@@ -1,0 +1,24 @@
+{
+  "name": "firecase",
+  "version": "1.0.0",
+  "description": "Firebase tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neel-radica/firecase.git"
+  },
+  "keywords": [
+    "firebase",
+    "tool",
+    "analytics"
+  ],
+  "author": "neel singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neel-radica/firecase/issues"
+  },
+  "homepage": "https://github.com/neel-radica/firecase#readme"
+}
